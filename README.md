@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 2 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
+- [brute force](#brute-force) (2)
+- [math](#math) (1)
 
 ---
 
@@ -21,6 +22,13 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.cpp) |
+| 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
 
 ---
 
