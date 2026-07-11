@@ -11,7 +11,6 @@ int main()
     // 0<= p <= n
     int p{0};
     cin >> p;
-    int x{0};
  
     set<int> array;
  
@@ -26,7 +25,6 @@ int main()
     // 0<= q <= n
     int q{0};
     cin >> q;
-    int y{0};
  
     for (int i = 1; i <= q; i++)
     {
@@ -34,6 +32,13 @@ int main()
         cin >> level;
         array.insert(level);
     }
+    if(array.size()==n){
+        cout << "I become the guy." << endl;
+    }else{
+        cout << "Oh, my keyboard!" << endl;
+    }
+    
+    /*
     bool a = true;
     for (int i = 1; i <= n; i++)
     {
@@ -45,6 +50,7 @@ int main()
         }
     }
     if(a) cout << "I become the guy." << endl;
+    */
  
     return 0;
 }
