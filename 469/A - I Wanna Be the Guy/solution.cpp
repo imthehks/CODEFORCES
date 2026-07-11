@@ -4,6 +4,7 @@ using namespace std;
  
 int main()
 {
+    /*
     int n{0};
     cin >> n; // 1<= n <= 100
  
@@ -37,7 +38,7 @@ int main()
     }else{
         cout << "Oh, my keyboard!" << endl;
     }
-    
+ 
     /*
     bool a = true;
     for (int i = 1; i <= n; i++)
@@ -52,5 +53,39 @@ int main()
     if(a) cout << "I become the guy." << endl;
     */
  
+    int n{0};
+    cin >> n;
+ 
+    bool passed[101] = {false}; // n <= 100
+ 
+    int p{0};
+    cin >> p;
+ 
+    for (int i = 0; i < p; i++)
+    {
+        int level;
+        cin >> level;
+        passed[level] = true;
+    }
+ 
+    int q{0};
+    cin >> q;
+ 
+    for (int i = 0; i < q; i++)
+    {
+        int level;
+        cin >> level;
+        passed[level] = true;
+    }
+ 
+    for (int i = 1; i <= n; i++)
+    {
+        if (!passed[i])
+        {
+            cout << "Oh, my keyboard!" << endl;
+            return 0;
+        }
+    }
+    cout << "I become the guy." << endl;
     return 0;
 }
