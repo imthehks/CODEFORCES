@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 5 |
+| 11 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (3)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (3)
@@ -19,6 +20,12 @@
 - [sortings](#sortings) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.cpp) |
 
 ### brute force
 
