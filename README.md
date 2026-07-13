@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 6 |
+| 12 | 6 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [brute force](#brute-force) (3)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (3)
-- [math](#math) (6)
+- [math](#math) (7)
 - [sortings](#sortings) (1)
 
 ---
@@ -53,6 +53,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/318/A%20-%20Even%20Odds/solution.cpp) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
