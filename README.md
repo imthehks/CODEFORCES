@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 9 |
+| 17 | 9 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (6)
+- [implementation](#implementation) (7)
 - [math](#math) (10)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
@@ -67,6 +67,7 @@
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/1760/A%20-%20Medium%20Number/solution.cpp) |
 
 ### math
