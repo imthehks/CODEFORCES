@@ -6,19 +6,20 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 9 |
+| 19 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (1)
-- [brute force](#brute-force) (4)
+- [brute force](#brute-force) (5)
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (8)
 - [math](#math) (10)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
 
@@ -35,6 +36,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.cpp) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
@@ -85,6 +87,12 @@
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
 
 ### sortings
 
