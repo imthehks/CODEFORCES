@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 22 | 10 |
+| 23 | 10 |
 
 ---
 
@@ -17,8 +17,8 @@
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (11)
-- [math](#math) (10)
+- [implementation](#implementation) (12)
+- [math](#math) (11)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
@@ -75,6 +75,7 @@
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/1760/A%20-%20Medium%20Number/solution.cpp) |
+| 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 
 ### math
 
@@ -90,6 +91,7 @@
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
+| 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 
 ### number theory
 
