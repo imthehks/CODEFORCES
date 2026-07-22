@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 23 | 10 |
+| 24 | 10 |
 
 ---
 
@@ -18,8 +18,8 @@
 - [games](#games) (1)
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (12)
-- [math](#math) (11)
-- [number theory](#number-theory) (1)
+- [math](#math) (12)
+- [number theory](#number-theory) (2)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
 
@@ -91,6 +91,7 @@
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 
 ### number theory
@@ -98,6 +99,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 
 ### sortings
 
