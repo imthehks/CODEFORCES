@@ -1,4 +1,5 @@
 #include <iostream>
+#include<algorithm>
 using namespace std;
  
 int main()
@@ -11,16 +12,9 @@ int main()
     int b{}; //?  blue socks
     cin >> a >> b;
  
-    int diff_socks{0};
-    int same_socks{0};
+    int diff_socks = min(a,b);
+    int same_socks = (max(a,b)-min(a,b))/2;
  
-    while (a > 0 && b > 0)
-    {
-        a--;
-        b--;
-        diff_socks++;
-    }
-    same_socks = (a+b)/2;
     cout << diff_socks << " " << same_socks << endl;
     return 0;
 }
