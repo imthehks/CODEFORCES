@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 44 | 10 |
+| 45 | 10 |
 
 ---
 
@@ -16,9 +16,9 @@
 - [constructive algorithms](#constructive-algorithms) (3)
 - [dp](#dp) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (4)
+- [greedy](#greedy) (5)
 - [implementation](#implementation) (27)
-- [math](#math) (19)
+- [math](#math) (20)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (3)
 - [strings](#strings) (6)
@@ -65,6 +65,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |
 | 1167A | [Telephone Number](https://codeforces.com/contest/1167/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/1167/A%20-%20Telephone%20Number/solution.cpp) |
@@ -108,6 +109,7 @@
 |---|---------|------------|----------|
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/imthehks/CODEFORCES/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
