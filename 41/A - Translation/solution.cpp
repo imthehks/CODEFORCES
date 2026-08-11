@@ -11,15 +11,13 @@ void translation()
     std::string t{};
     cin >> t;
  
-    std::string temp{};
-    for (int i = s.size() - 1; i >= 0; --i)
+    reverse(s.begin(), s.end());
+    if (s == t)
     {
-        temp+=s[i];
-    }
- 
-    if(temp==t){
         std::cout << "YES" << endl;
-    }else{
+    }
+    else
+    {
         std::cout << "NO" << endl;
     }
 }
